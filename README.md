@@ -1,6 +1,6 @@
 ### lodjs
 ---
-https://github.com/duojs/duo
+https://github.com/yanhaijing/lodjs
 
 ```
 ```
